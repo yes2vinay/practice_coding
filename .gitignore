@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Ignore `bin` dir
+bin/
+# or
+*/bin/*
