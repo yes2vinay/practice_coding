@@ -35,3 +35,13 @@
 bin/
 # or
 */bin/*
+
+# Ignore *.swp .txt .log archieve files .gz .zst .tar etc
+*.txt
+*.log
+*.gz
+*.zst
+*.tar
+*.tar.gz
+*.gzip
+*.swp
